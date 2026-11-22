@@ -3,7 +3,6 @@ import 'package:mockito/mockito.dart';
 import 'package:ibge_cnae/src/common/patterns/result_pattern.dart';
 import 'package:ibge_cnae/src/features/settings/data/data.dart';
 import 'package:ibge_cnae/src/features/settings/domain/domain.dart';
-import 'package:ibge_cnae/src/features/settings/presentation/models/setting_ui_model.dart';
 import 'package:ibge_cnae/src/features/settings/presentation/view_models/setting_view_model.dart';
 
 import '../../settings_mocks.mocks.dart';

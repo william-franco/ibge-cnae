@@ -4,6 +4,9 @@ All notable changes to this project are documented in this file.
 
 ## 2026-11-22
 
+- Linux CI E2E runs under xvfb-run for headless GitHub Actions runners.
+- Analyze: removed unused import in settings view model test.
+
 - Commit: Expanded app structure, tests, Linux E2E, and CI workflow.
   - Feature modules, unit tests, integration_test, and flutter_ci Linux E2E job.
 - Commit: Use material_ui in integration_test to fix Flutter analyze deprecation.
